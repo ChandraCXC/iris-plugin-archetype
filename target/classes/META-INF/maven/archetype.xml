@@ -1,0 +1,12 @@
+<archetype>
+  <id>iris-plugin-archetype</id>
+  <sources>
+    <source>src/main/java/TestComponent.java</source>
+    <source>src/main/java/TestMenuItem.java</source>
+    <source>src/main/java/TestPlugin.java</source>
+  </sources>
+  <resources>
+    <resource filtered="false">src/main/resources/images/icon.png</resource>
+    <resource filtered="false">src/main/resources/images/thumb.png</resource>
+  </resources>
+</archetype>
