@@ -34,7 +34,7 @@ public class TestPlugin implements IrisPlugin {
     }
 
     public String getAcknowledgments() {
-        return "";
+        return "If you use this software please by me a pizza";
     }
 
     

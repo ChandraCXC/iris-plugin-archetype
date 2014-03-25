@@ -6,8 +6,6 @@ import cfa.vo.iris.sdk.AbstractPluginMenuItem;
 public class TestMenuItem extends AbstractPluginMenuItem {
 
     public TestMenuItem() {
-        setTitle("PluginTestMenuItemMame");
-        setDescription("Plugin Test Menu Item Description");
         setIconPath("/images/icon.png");
         setThumbnailPath("/images/thumb.png");
     }
